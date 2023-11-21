@@ -1,0 +1,18 @@
+{
+	"name": "VM_Data",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SFTP_vm_l",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "SftpLocation",
+				"folderPath": "/home/rohitavantsa/"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "rohitavantsa",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c055d82-441f-489c-9afe-534070dd8cde",
+		"tenantId": "f0b9663c-3c13-4178-bc4d-166c32f1b146"
+	}
+}
