@@ -1,0 +1,9 @@
+{
+	"name": "vm-learning",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b72adf92-a8dc-435a-a27c-3e0e9ff78c75",
+		"tenantId": "f0b9663c-3c13-4178-bc4d-166c32f1b146"
+	}
+}
