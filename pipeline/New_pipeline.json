@@ -16,17 +16,15 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "VM_Data",
+						"referenceName": "Landing",
 						"type": "DatasetReference"
 					},
 					"fieldList": [
 						"childItems"
 					],
 					"storeSettings": {
-						"type": "SftpReadSettings",
-						"recursive": true,
-						"enablePartitionDiscovery": false,
-						"disableChunking": false
+						"type": "AzureBlobFSReadSettings",
+						"enablePartitionDiscovery": false
 					},
 					"formatSettings": {
 						"type": "BinaryReadSettings"
