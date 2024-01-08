@@ -10,8 +10,9 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": "newFiles",
-				"fileSystem": "landing"
+				"fileName": "CA_category_id.json",
+				"folderPath": "youtubeData",
+				"fileSystem": "rawzone"
 			}
 		}
 	},
