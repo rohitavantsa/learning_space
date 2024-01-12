@@ -13,7 +13,7 @@
 		],
 		"type": "BlobEventsTrigger",
 		"typeProperties": {
-			"blobPathBeginsWith": "/landing/blobs/",
+			"blobPathBeginsWith": "/rawzone/blobs/",
 			"ignoreEmptyBlobs": true,
 			"scope": "/subscriptions/30f79765-51da-406e-b422-8127d14f8c7d/resourceGroups/learning/providers/Microsoft.Storage/storageAccounts/rohitavantsa13",
 			"events": [
